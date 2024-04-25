@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "7",
     "reminder_time": "3",
-    "update_version": "v21.38",
+    "update_version": "v39.38",
     "com.whatsapp": "https://update.gold/updateplus",
     "com.WhatsApp2Plus": "https://t.me/MujahidWhatsApp ",
     "com.WhatsApp3Plus": "https://update.gold/updatered",
