@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "7",
+    "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v39.38",
+    "update_version": "v11.0",
     "com.whatsapp": "https://update.gold/updateplus",
     "com.WhatsApp2Plus": "https://t.me/MujahidWhatsApp ",
     "com.Mujahid4": "https://update.gold/updatered",
