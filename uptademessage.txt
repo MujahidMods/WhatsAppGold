@@ -3,11 +3,14 @@
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v11.0",
-    "com.whatsapp": "https://update.gold/updateplus",
-    "com.WhatsApp2Plus": "https://t.me/MujahidWhatsApp ",
-    "com.Mujahid4": "https://update.gold/updatered",
+    "com.whatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
+    "com.WhatsApp2Plus": "https://www.mjwhats.com ",
+    "com.Mujahid4": "https://www.mjwhats.com",
+    "com.gbwhatsapp": "https://www.mjwhats.com",
+    "com.yowhatsapp": "https://www.mjwhats.com",
+    "com.Mujahid4": "com.fmwhatsapp",
     "com.Mujahid3": "https://www.mjwhats.com/2023/05/blog-post_2.html",
-    "com.WhatsApp5Plus": "https://update.gold/updateblack",
+    "com.com.fmwhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "update_message": "
 <p>Update تحديث جديد اصدار 18 </p>
 <مميزات اضافية
