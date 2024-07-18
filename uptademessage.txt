@@ -1,37 +1,37 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "9",
     "reminder_time": "3",
-    "update_version": "v11.0",
+    "update_version": "v20.0",
     "com.whatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.WhatsApp2Plus": "https://www.mjwhats.com ",
     "com.Mujahid4": "https://www.mjwhats.com",
     "com.gbwhatsapp": "https://www.mjwhats.com",
-    "com.yowhatsapp": "https://www.mjwhats.com",
-    "com.Mujahid4": "com.fmwhatsapp",
+    "com.yowhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
+    "com.fmwhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
+    "com.Mujahid4": "https://www.mjwhats.com",
     "com.Mujahid3": "https://www.mjwhats.com/2023/05/blog-post_2.html",
-    "com.com.fmwhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
+    "com.com.Mujahid2": "https://www.mjwhats.com",
     "update_message": "
-<p>Update تحديث جديد اصدار 18 </p>
+<p>Update تحديث جديد اصدار 20 </p>
 <مميزات اضافية
 
-<li>Base Update: 2.23.25.78</li>
-<li>[Anti-Ban] Fix SMS/Call Verification</li>
-<li>Enabled Search in Chat by (Date / Time)</li>
-<li>Enabled Send voice notes(View Once)</li>
-<li>Disabled showing Name/Date when copying more than 1 message</li>
-<li>Added ability to make a call phone with Business accounts</li>
-<li>Added New style for loading fonts</li>
-<li>Fixed hide view status when enabling Ghost mod</li>
-<li>Fixed Anti-view once</li>
-<li>Fixed hide blue ticks</li>
-<li>Fixed Hidden chats not opening in some styles</li>
-<li>Fixed Scrolling in chat screen</li>
-<li>Fixed asking for open lock twice in chat</li>
-<li>Fixed Themes not working in Emojis dialog</li>
-<li>Fixed Green dot in Chats screen</li>
-<li>Fixed Restore Backup from SD</li>
-<li>Other 😱🤗🤣🙄🙄♥💔✔️fixes</li>
+<li>🛡 تحديث قاعدة الواتساب: 2.24.11.79.</li>
+<li>[جديد اضافة ميزة تعديل الرسائل المرسله والمستلمه تعديل من داخل المحادثه عبر النقر على الرسالة</li>
+<li>اصلاح مشكلة ربط بواتساب الرسمي </li>
+<li> اصلاح مشكلة التنزيل من الموقع الان تنزيل سهل اضغط تنزيل ومرر للاسفل في صفحة الموقع ومرر لاسفل فقط)</li>
+<li> [جديد] إضافة الشكل الجديد للواتساب.</li>
+<li>تحسين] الحماية ضد الحظر.</li>
+<li> [تحسين] تم تحسين ربط الجهاز.🔗</li>
+<li> [إصلاح] الكثير من الأخطاء.</li>
+<li>🛡 WhatsApp base update: 2.24.11.79.</li>
+<li>[New: Adding the feature of modifying sent and received messages from within the conversation by clicking on the message</li>
+<li>Fix the problem of connecting to the official WhatsApp </li>
+<li>Fix the problem of downloading from the site now. Easy downloading. Click Download and scroll down on the site page and scroll down only)</li>
+<li> [New] Adding the new look to WhatsApp.</li>
+<li>Improved] anti-ban protection.</li>
+<li> [Improvement] Device connectivity has been improved.🔗</li>
+<li>[Fix] a lot of errors.</li>
 "
     }
 }
