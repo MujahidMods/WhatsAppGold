@@ -4,17 +4,17 @@
     "reminder_time": "3",
     "update_version": "v20.0",
     "com.whatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
-    "com.WhatsApp2Plus": "https://www.mjwhats.com ",
+    "com.WhatsApp2Plus": "https://www.mjwhats.com/2023/05/blog-post_2.html ",
     "com.Mujahid1": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.ASMODS": "https://www.mjwhats.com/2023/05/blog-post_2.html", 
-    "com.mnatowhatsapu": "https://www.mjwhats.com",
+    "com.mnatowhatsapu": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.mnatowhatsaps": "https://www.mjwhats.com/2023/05/blog-post_2.html", 
-    "com.gbwhatsapp": "https://www.mjwhats.com",
+    "com.gbwhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.yowhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.fmwhatsapp": "https://www.mjwhats.com/2023/05/blog-post_2.html",
-    "com.Mujahid4": "https://www.mjwhats.com",
+    "com.Mujahid4": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "com.Mujahid3": "https://www.mjwhats.com/2023/05/blog-post_2.html",
-    "com.com.Mujahid2": "https://www.mjwhats.com",
+    "com.com.Mujahid2": "https://www.mjwhats.com/2023/05/blog-post_2.html",
     "update_message": "
 <p>Update تحديث جديد اصدار 20 </p>
 <مميزات اضافية
